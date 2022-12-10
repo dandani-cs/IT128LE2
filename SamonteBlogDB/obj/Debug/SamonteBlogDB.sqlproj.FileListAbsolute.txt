@@ -1,0 +1,10 @@
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\SamonteBlogDB\bin\Debug\SamonteBlogDB.dacpac
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\SamonteBlogDB\bin\Debug\SamonteBlogDB.dll
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\SamonteBlogDB\bin\Debug\SamonteBlogDB.pdb
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\SamonteBlogDB\obj\Debug\SamonteBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\SamonteBlogDB\obj\Debug\Model.xml
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\SamonteBlogDB\obj\Debug\refactor.xml
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\SamonteBlogDB\obj\Debug\postdeploy.sql
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\SamonteBlogDB\obj\Debug\predeploy.sql
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\SamonteBlogDB\obj\Debug\SamonteBlogDB.dll
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\SamonteBlogDB\obj\Debug\SamonteBlogDB.pdb
