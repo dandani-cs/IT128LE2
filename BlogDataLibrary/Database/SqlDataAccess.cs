@@ -12,7 +12,7 @@ namespace BlogDataLibrary.Database
 {
     public class SqlDataAccess : ISqlDataAccess
     {
-        private readonly IConfiguration _config;
+        private IConfiguration _config;
 
 
         public SqlDataAccess(IConfiguration config)

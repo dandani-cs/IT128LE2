@@ -1,0 +1,15 @@
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\bin\Debug\net6.0\SamonteBlogDB.dll
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\bin\Debug\net6.0\SamonteBlogDB.pdb
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CopyComplete
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\dcsam\Documents\Mapua\Y3\IT128\labexercise2\SamonteLE2\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll
