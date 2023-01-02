@@ -33,7 +33,8 @@ namespace BlogAPI.Controllers
             if (user != null) 
             {
                 var token = GenerateToken(user);
-                return Ok(token);
+                string json = $"{{\"id_token\": \"{token}\"}}";
+                return Ok(json);
             }
 
             return NotFound("User not found");
